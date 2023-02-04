@@ -8,25 +8,43 @@ export const Work = [
         tags:["2 Month"],
 
         demo:"https://www.adira.co.id/",
-        github:"https://www.adira.co.id/"
+        github:"https://github.com/LewinsHp"
     },
     {
         id:2,
-        name:"Frontend Developer",
+        name:"Magang Frontend Developer",
         description:"PT Manggala Teknologi Nusantara",
         tags:["1 Month"],
 
         demo:"https://www.manggalateknologi.com/",
-        github:"https://www.manggalateknologi.com/"
+        github:"https://github.com/LewinsHp"
 
     },
     {
         id:3,
-        name:"Software Engineering",
+        name:"Junior Frontend Developer",
         description:"PT Aero Systems Indonesia",
         tags:["1 Month"],
 
         demo:"https://www.asyst.co.id/",
-        github:"https://www.asyst.co.id/"
+        github:"https://github.com/LewinsHp"
         },
+    {
+        id:4,
+        name:"Magang",
+        description: "Web Programming ",
+        tags:["6 Month"],
+
+        demo: "https://ITConfig.com/",
+        github:"https://github.com/LewinsHp"
+    },
+    {
+        id:5,
+        name:"Web Developer",
+        description:"Pusat Data Sistem Informasi Batam",
+        tags:["7 Month"],
+
+        demo: "https://bpbatam.go.id/",
+        github:"https://github.com/LewinsHp"
+    }
 ]

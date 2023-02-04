@@ -8,7 +8,7 @@ import SocialIcons from '../subComponents/SocialIcons';
 import PowerButton from '../subComponents/PowerButton';
 import ParticleComponent from '../subComponents/ParticleComponent';
 import BigTitle from '../subComponents/BigTitlte'
-import astronaut from '../assets/Images/spaceman.png'
+import astronaut from '../assets/Images/spaceman2.png'
 
 const Box = styled.div`
 background-color: ${props => props.theme.body};
@@ -73,7 +73,7 @@ const AboutPage = () => {
         </Spaceman>
         <Main>
 
-<br /> I am lewin. I am a web Developer and expert in html,css and Java script .I have also great knowledge of UI/UX and tailwind css.<br/>
+<br /> I am lewin. I am a web Developer and expert in html,css and JavaScript .I have also great knowledge of UI/UX, React JS, Tailwind Css.<br/>
 
 <br/> <br/>
 

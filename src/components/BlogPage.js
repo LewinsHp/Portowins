@@ -47,13 +47,13 @@ const container = {
     hidden: {opacity:0},
     show: {
       opacity:1,
-  
+
       transition:{
         staggerChildren: 0.5,
         duration: 0.5,
       }
     }
-  
+
   }
 
 const BlogPage = () => {
@@ -91,7 +91,7 @@ const BlogPage = () => {
 </Grid>
 
 </Center>
-<BigTitle text="BLOG" top="5rem" left="5rem" />
+
             </Container>
         </MainContainer>
     )

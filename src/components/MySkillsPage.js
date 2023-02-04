@@ -105,7 +105,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
         Web Design
     </li>
     <li>
-        Mobile Apps
+        User Interface APP
     </li>
 </ul>
 </Description>
@@ -113,7 +113,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
 <strong>Tools</strong>
 <ul>
     <li>
-       Figma
+       Figma, Balsamiq, Photoshop.
     </li>
 
 </ul>
@@ -130,7 +130,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, Sass, Bootstrap, Tailwind.
+Html, Css, Js, Sass, Bootstrap.
 </p>
 </Description>
 <Description>
