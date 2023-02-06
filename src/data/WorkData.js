@@ -31,8 +31,8 @@ export const Work = [
         },
     {
         id:4,
-        name:"Magang",
-        description: "Web Programming ",
+        name:"Frontend Developer",
+        description: "Perusahaan IT",
         tags:["6 Month"],
 
         demo: "https://ITConfig.com/",
@@ -40,7 +40,7 @@ export const Work = [
     },
     {
         id:5,
-        name:"Web Developer",
+        name:"Web Programmer",
         description:"Pusat Data Sistem Informasi Batam",
         tags:["7 Month"],
 
