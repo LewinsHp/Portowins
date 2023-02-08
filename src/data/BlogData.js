@@ -68,4 +68,20 @@ export const Blogs = [
         imgSrc:"https://hkbpcipayungcilangkap.org/asset/img_novapage/images/gereja1.JPG",
         link:"https://www.hkbprawamangun.id/"
     },
+    {
+        id:9,
+        name:"VISIT SUMUT",
+        tags:["LARAVEL","JS"],
+        date:"15 Feb, 2022",
+        imgSrc: "https://images.unsplash.com/photo-1675837507032-aae611cedb61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        link: "https://www.visitsumut.vercel.app/"
+    },
+    {
+        id:10,
+        name:"MUSIC PLAYER",
+        tags:["JS","SCSS","HTML"],
+        date:"20 Mar, 2022",
+        imgSrc: "https://images.unsplash.com/photo-1501612780327-45045538702b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        link: "localhost:3001"
+    }
 ]
