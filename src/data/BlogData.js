@@ -62,7 +62,7 @@ export const Blogs = [
     },
     {
         id:8,
-        name:"REDESIGN WEBSITE HKBP",
+        name:"DESIGN WEBSITE HKBP",
         tags:["HTML","CSS","JS"],
         date:"01 Jan, 2023",
         imgSrc:"https://hkbpcipayungcilangkap.org/asset/img_novapage/images/gereja1.JPG",
@@ -73,7 +73,7 @@ export const Blogs = [
         name:"VISIT SUMUT",
         tags:["LARAVEL","JS"],
         date:"15 Feb, 2022",
-        imgSrc: "https://images.unsplash.com/photo-1675837507032-aae611cedb61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        imgSrc: "https://images.unsplash.com/photo-1630298183613-a1449468daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
         link: "https://www.visitsumut.vercel.app/"
     },
     {
